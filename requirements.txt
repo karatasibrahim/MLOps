@@ -1,0 +1,4 @@
+tensorflow-cpu
+sklearn
+scikit
+flask
