@@ -1,4 +1,6 @@
 tensorflow-cpu
+pandas
+pickle
 sklearn
-scikit
+scikit-learn
 flask
